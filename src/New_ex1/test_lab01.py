@@ -10,3 +10,5 @@ def test_sample():
 def test_sample2():
     driver = webdriver.Edge()
     driver.get("https://test.cloudhealthtools.com/sign-in")
+
+
