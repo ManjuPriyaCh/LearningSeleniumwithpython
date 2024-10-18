@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4fda3a7-f3ca-4477-9ad9-9f2f18358528" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/LearningSeleniumwithpython.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/New_ex1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/New_ex1/test_lab01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/New_ex1/test_lab02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+    <list default="true" id="c4fda3a7-f3ca-4477-9ad9-9f2f18358528" name="Changes" comment="All files">
+      <change beforePath="$PROJECT_DIR$/src/New_ex1/test_lab01.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/New_ex1/test_lab01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ManjuPriyaCh/LearningSeleniumwithpython.git",
+    "accountId": "0d01e62f-52b2-4d35-893d-38fe5d86b2db"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -122,6 +118,27 @@
       <option name="presentableId" value="Default" />
       <updated>1729268603871</updated>
     </task>
+    <task id="LOCAL-00001" summary="All files">
+      <option name="closed" value="true" />
+      <created>1729272621542</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729272621542</updated>
+    </task>
+    <task id="LOCAL-00002" summary="All files">
+      <option name="closed" value="true" />
+      <created>1729272723935</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729272723935</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="All files" />
+    <option name="LAST_COMMIT_MESSAGE" value="All files" />
   </component>
 </project>
