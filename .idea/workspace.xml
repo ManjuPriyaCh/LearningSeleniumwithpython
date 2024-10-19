@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4fda3a7-f3ca-4477-9ad9-9f2f18358528" name="Changes" comment="All files">
+      <change afterPath="$PROJECT_DIR$/src/New_ex1/test_task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/New_ex1/test_lab01.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/New_ex1/test_lab01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,15 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ManjuPriyaCh/LearningSeleniumwithpython.git",
-    "accountId": "0d01e62f-52b2-4d35-893d-38fe5d86b2db"
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ManjuPriyaCh"
   }
 }]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ManjuPriyaCh/LearningSeleniumwithpython.git&quot;,
+    &quot;accountId&quot;: &quot;0d01e62f-52b2-4d35-893d-38fe5d86b2db&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2ncNraGTLMe8DJEuC1BPzy55Z04" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,14 +49,31 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for task_seleniumide.TestVerifyLogininfo.executor": "Run",
     "Python tests.Python tests for test_lab01.test_sample.executor": "Run",
     "Python tests.Python tests for test_lab01.test_sample2.executor": "Run",
     "Python tests.Python tests for test_lab02.test_open_vwo_login.executor": "Run",
+    "Python tests.Python tests for test_task2.test_open_katalon.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_lab02.test_open_vwo_login">
+  <component name="RunManager" selected="Python tests.Python tests for test_task2.test_open_katalon">
+    <configuration name="Python tests for task_seleniumide.TestVerifyLogininfo" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumwithpython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/New_ex1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;task_seleniumide.TestVerifyLogininfo&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test_lab01.test_sample" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="LearningSeleniumwithpython" />
       <option name="ENV_FILES" value="" />
@@ -94,10 +119,27 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_task2.test_open_katalon" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="LearningSeleniumwithpython" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/New_ex1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_task2.test_open_katalon&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_lab02.test_open_vwo_login" />
+        <item itemvalue="Python tests.Python tests for test_task2.test_open_katalon" />
+        <item itemvalue="Python tests.Python tests for task_seleniumide.TestVerifyLogininfo" />
         <item itemvalue="Python tests.Python tests for test_lab01.test_sample2" />
+        <item itemvalue="Python tests.Python tests for test_lab02.test_open_vwo_login" />
         <item itemvalue="Python tests.Python tests for test_lab01.test_sample" />
       </list>
     </recent_temporary>
